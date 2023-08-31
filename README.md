@@ -87,14 +87,21 @@ Our Comprehensive Full-Stack E-Commerce Solution beckons you to elevate your e-c
 
 
 
+
 Note: Before you can run our E-Commerce, make sure to set up the required environment variables in the respective .env files.
+
 
 add .env file in the backend folder and include: ATLAS_URI and JWT_SECRET_KEY:
 
+
 ATLAS_URI=<your_mongodb_atlas_uri>
+
 
 JWT_SECRET_KEY=<your_jwt_secret_key>
 
+
 Furthermore, to ensure a smooth experience, don't forget to install the necessary node modules by running "npm install" in the frontend and backend folders.
 
+
 Get ready to immerse yourself in a new era of Online Shops. Clone our repository, configure your environment, and elevate your conversations with our E-Commerce!
+
