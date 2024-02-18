@@ -92,16 +92,22 @@ Note: Before you can run our E-Commerce, make sure to set up the required enviro
 
 
 add .env file in the backend folder and include: ATLAS_URI and JWT_SECRET_KEY:
-
-
 ATLAS_URI=<your_mongodb_atlas_uri>
-
-
 JWT_SECRET_KEY=<your_jwt_secret_key>
 
 
 Furthermore, to ensure a smooth experience, don't forget to install the necessary node modules by running "npm install" in the frontend and backend folders.
 
 
-Get ready to immerse yourself in a new era of Online Shops. Clone our repository, configure your environment, and elevate your conversations with our E-Commerce!
+Screenshots:
+
+   ![Image 29](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/e25d987c-0f45-439e-b404-13027f5801f5)
+   ![Image 30](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/46d09dca-ecc6-47da-a254-4e0171f6b2a6)
+   ![Image 31](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/18428a22-f4d5-4126-b065-f5f3f8be35c2)
+   ![Image 32](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/12de42ca-b216-48ff-a849-fff7cb78c3be)
+   ![Image 33](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/89dd56dd-c46b-4361-85c5-39617ac8f584)
+   ![Image 34](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/3baf3db1-d3af-498a-a1e6-67704a357b3e)
+   ![Image 35](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/0b9fd076-d9d0-4564-940d-87f7254e1c3d)
+   ![Image 36](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/d82b6a1f-51a2-4def-9461-6452747fb545)
+   ![Image 37](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/2ceef124-6d46-4bb4-960f-022a4a11d5f7)
 
